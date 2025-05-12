@@ -7,8 +7,8 @@ This project is a Bomberman-style game where players navigate a maze, plant bomb
 
 ###Menu Preview
 
-![Play Menu](menu1.gif)
-![Main Menu](menu2.gif)
+![menu GIF](menu.gif)
+
 
 ###Controls
 Arrow keys: Move
