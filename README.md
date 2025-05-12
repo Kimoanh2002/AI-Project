@@ -1,5 +1,5 @@
 ###My Bomberman Project
-This is a Bomberman-inspired game developed as part of my final course project. It draws inspiration from the open-source Bomberman clone by Forestf90 with extensive enhancements to the AI, audio, and gameplay experience.
+This is a Bomberman-inspired game developed as part of my final course project made by Tran Thi Tra My and Nguyen Thi Kim Oanh. It draws inspiration from the open-source Bomberman clone by Forestf90 with extensive enhancements to the AI, audio, and gameplay experience.
 
 ###About
 This project is a Bomberman-style game where players navigate a maze, plant bombs, and face off against intelligent AI opponents. It incorporates six newly designed AI algorithms and background music to enrich the gameplay, building upon the original interface design.
