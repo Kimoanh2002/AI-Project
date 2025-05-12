@@ -28,7 +28,7 @@ _Retained the original interface design with minor refinements._
 
 _Original code: Inspired by the Bomberman clone by Forestf90 , licensed under GNU GPL-3.0.
 
-_Sprites: "Bomb Party - The Complete Set" by Matt Hackett (Lost Decade Games), Cem Kalyoncu, and /usr/share, licensed under CC-BY 3.0 (http://creativecommons.org/licenses/by/3.0/). Some sprites were slightly modified (e.g., color adjustments).
+_Sprites: "Bomb Party - The Complete Set" by Matt Hackett : https://opengameart.org/content/bomb-party-the-complete-set (Lost Decade Games), Cem Kalyoncu, and /usr/share, licensed under CC-BY 3.0. Some sprites were slightly modified (e.g., color adjustments).
 
 _Sound effects: Menu sound effects sourced from Pixabay (https://pixabay.com/sound-effects/search/menu/), licensed under the Pixabay License.
 
