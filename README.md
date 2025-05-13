@@ -4,13 +4,28 @@ This is a Bomberman-inspired game developed as part of my final course project m
 ###About
 This project is a Bomberman-style game where players navigate a maze, plant bombs, and face off against intelligent AI opponents. It incorporates six newly designed AI algorithms and background music to enrich the gameplay, building upon the original interface design.
 
-
 ###Menu Preview
 
 ![menu GIF](menu.gif)
 
 ![map GIF](map.gif)
 
+### AI Performance Comparison
+The table below compares the performance of five AI algorithms in Bomberman, based on their ability to achieve goals, processing speed, safety, and adaptability. Note: Q-Learning shows potential but requires further training to match other algorithms.
+
+| Algorithm                   | Goal Success (%) | Processing Time (ms) | Safety Rate (%) | Flexibility (1-10) |
+|-----------------------------|------------------|---------------------|-----------------|-------------------|
+| BFS + Backtracking          | 75               | 5                   | 80              | 4                 |
+| A*                          | 90               | 15                  | 95              | 9                 |
+| Beam Search                 | 85               | 12                  | 90              | 6                 |
+| Partial Observation         | 65               | 20                  | 70              | 8                 |
+| Q-Learning                  | 50               | 7                   | 60              | 7                 |
+
+- **Goal Success**: % of successful attempts to reach crates or safe tiles.
+- **Processing Time**: Average time per path calculation (ms).
+- **Safety Rate**: % of successful avoidance of bombs/explosions.
+- **Flexibility**: Adaptability to complex scenarios (1-10).
+  
 ###Controls
 Arrow keys: Move
 Space: Plant bomb
